@@ -1,4 +1,4 @@
-# surge rule-set sample
+# surge rule-set
 ### 官方surge.list配置范例 https://github.com/Blankwonder/surge-list
 
 ```
