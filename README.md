@@ -1,1 +1,1 @@
-# rule
+# Surge.list
