@@ -21,7 +21,6 @@ DOMAIN-SUFFIX,aaplimg.com,PROXY
 DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,PROXY
-DOMAIN-SUFFIX,lookup-api.apple.com,PROXY
 
 RULE-SET,https://github.com/Choole/Surge/raw/master/adblock.list,REJECT
 
