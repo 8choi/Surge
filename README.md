@@ -1,4 +1,4 @@
-# surge rule-set
+# Rule-Set
 ### 官方surge.list配置范例 https://github.com/Blankwonder/surge-list
 
 ```
@@ -8,8 +8,8 @@ RULE-SET,SYSTEM,DIRECT
 
 IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 
-URL-REGEX,signed.beta.ipa,PROXY
-URL-REGEX,signed.dpkg.ipa,DIRECT
+URL-REGEX,signed.beta.ipa,PROXY //App Store
+URL-REGEX,signed.dpkg.ipa,DIRECT //TestFight
 
 DOMAIN-SUFFIX,me.com,PROXY
 DOMAIN-SUFFIX,apple.co,PROXY
