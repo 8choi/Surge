@@ -122,6 +122,32 @@ DOMAIN,mr.da.netease.com
 # Twitter
 DOMAIN-SUFFIX,syndication.twitter.com
 
+# Tencent
+DOMAIN-SUFFIX,act.qq.com
+DOMAIN-SUFFIX,adsfile.qq.com
+DOMAIN-SUFFIX,beacon.qq.com
+DOMAIN-SUFFIX,btrace.qq.com
+DOMAIN-SUFFIX,bugly.qq.com
+DOMAIN-SUFFIX,e.qq.com
+DOMAIN-SUFFIX,gdt.qq.com
+DOMAIN-SUFFIX,ltsdl.qq.com
+DOMAIN-SUFFIX,monitor.uu.qq.com
+DOMAIN-SUFFIX,mtrace.qq.com
+DOMAIN-SUFFIX,pgdt.gtimg.cn
+DOMAIN-SUFFIX,pingjs.qq.com
+DOMAIN-SUFFIX,pingma.qq.com
+DOMAIN-SUFFIX,pingtcss.qq.com
+DOMAIN-SUFFIX,report.qq.com
+DOMAIN-SUFFIX,routertips.video.qq.com
+DOMAIN-SUFFIX,tajs.qq.com
+DOMAIN-SUFFIX,tcss.qq.com
+DOMAIN-SUFFIX,up-hl.3g.qq.com
+DOMAIN-SUFFIX,fusion.qq.com
+DOMAIN-SUFFIX,sdkconfig.video.qq.com
+DOMAIN-SUFFIX,iacc.qq.com
+DOMAIN-SUFFIX,news.l.qq.com
+DOMAIN-SUFFIX,yun-hl.3g.qq.com
+
 # Google
 DOMAIN,service.urchin.com
 DOMAIN,csi.gstatic.com
