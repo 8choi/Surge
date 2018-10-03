@@ -143,9 +143,21 @@ DOMAIN,e.crashlytics.com
 DOMAIN,gate.hockeyapp.net
 
 # Netease
-DOMAIN,g1.163.com
-DOMAIN,static.ws.126.net
-DOMAIN,mr.da.netease.com
+DOMAIN-SUFFIX,adgeo.163.com
+DOMAIN-SUFFIX,bobo.163.com
+DOMAIN-SUFFIX,fa.163.com
+DOMAIN-SUFFIX,g.163.com
+DOMAIN-SUFFIX,g1.163.com
+DOMAIN-SUFFIX,gb.corp.163.com
+DOMAIN-SUFFIX,haitaoad.nosdn.127.net
+DOMAIN-SUFFIX,img1.126.net
+DOMAIN-SUFFIX,oadz.com
+DOMAIN-SUFFIX,oimagea2.ydstatic.com
+DOMAIN-SUFFIX,pagechoice.net
+DOMAIN-SUFFIX,prom.gome.com.cn
+DOMAIN-SUFFIX,rlogs.youdao.com
+DOMAIN-SUFFIX,static.flv.uuzuonline.com
+DOMAIN-SUFFIX,wanproxy.127.net
 
 # Twitter
 DOMAIN-SUFFIX,syndication.twitter.com
