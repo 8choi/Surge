@@ -140,3 +140,21 @@ DOMAIN,www.googlecommerce.com
 DOMAIN,www.googleadservices.com
 DOMAIN,www.googletagmanager.com
 DOMAIN,pagead2.googlesyndication.com
+
+# sina
+DOMAIN,log.sina.cn
+DOMAIN-SUFFIX,ad.sina.com.cn
+DOMAIN-SUFFIX,adm.leju.sina.com.cn
+DOMAIN-SUFFIX,atm.sina.com
+DOMAIN-SUFFIX,beacon.sina.com.cn
+DOMAIN-SUFFIX,dcads.sina.com.cn
+DOMAIN-SUFFIX,dp.im.weibo.cn
+DOMAIN-SUFFIX,imrworldwide.com
+DOMAIN-SUFFIX,log.weico.cc
+DOMAIN-SUFFIX,miaozhen.com
+DOMAIN-SUFFIX,sax.sina.cn
+DOMAIN-SUFFIX,sax.sina.com.cn
+DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
+DOMAIN-SUFFIX,wax.weibo.com
+DOMAIN,sbeacon.sina.com.cn
+DOMAIN-SUFFIX,sapi.sina.cn
