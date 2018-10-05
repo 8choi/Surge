@@ -9,8 +9,8 @@ RULE-SET,SYSTEM,DIRECT
 
 IP-CIDR,17.0.0.0/8,DIRECT,no-resolve
 
-URL-REGEX,signed.beta.ipa,PROXY // App Store
-URL-REGEX,signed.dpkg.ipa,DIRECT // TestFlight
+URL-REGEX,signed.beta.ipa,PROXY // TestFlight
+URL-REGEX,signed.dpkg.ipa,DIRECT // App Store
 
 DOMAIN-SUFFIX,me.com,PROXY
 DOMAIN-SUFFIX,apple.co,PROXY
