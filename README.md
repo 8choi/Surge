@@ -22,9 +22,9 @@ DOMAIN-SUFFIX,mzstatic.com,DIRECT
 DOMAIN-SUFFIX,cdn-apple.com,DIRECT
 DOMAIN-SUFFIX,icloud-content.com,PROXY
 
-RULE-SET,https://github.com/Choole/Surge/raw/master/adblock.list,REJECT
+RULE-SET,https://github.com/Choler/Surge/raw/master/adblock.list,REJECT
 
-RULE-SET,https://github.com/Choole/Surge/raw/master/telegram.list,PROXY
+RULE-SET,https://github.com/Choler/Surge/raw/master/telegram.list,PROXY
 
 RULE-SET,LAN,DIRECT
 
