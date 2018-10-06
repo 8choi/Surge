@@ -28,5 +28,5 @@ RULE-SET,https://github.com/Choole/Surge/raw/master/telegram.list,PROXY
 
 RULE-SET,LAN,DIRECT
 
-GEOIP,CN,DIRECT
+GEOIP,CN,DIRECT,always-real-ip
 FINAL,PROXY,dns-failed
