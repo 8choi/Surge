@@ -44,6 +44,9 @@ DOMAIN-KEYWORD,usage
 DOMAIN-KEYWORD,wlmonitor
 DOMAIN-KEYWORD,zjtoolbar
 
+# Apple
+DOMAIN-SUFFIX,iadsdk.apple.com
+
 # Ali
 DOMAIN-SUFFIX,acs4baichuan.m.taobao.com
 DOMAIN-SUFFIX,adash.man.aliyuncs.com
