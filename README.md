@@ -20,7 +20,5 @@ RULE-SET,https://github.com/Choler/Surge/raw/master/adblock.list,REJECT
 
 RULE-SET,https://github.com/Choler/Surge/raw/master/telegram.list,PROXY
 
-IP-CIDR,17.0.0.0/8,PROXY,no-resolve
-
 GEOIP,CN,DIRECT,always-real-ip
 FINAL,PROXY,dns-failed
