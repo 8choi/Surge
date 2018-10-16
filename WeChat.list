@@ -3,3 +3,6 @@ USER-AGENT,MicroMessenger Client
 
 DOMAIN-SUFFIX,qpic.cn
 DOMAIN-SUFFIX,weixin.qq.com
+
+IP-CIDR,113.96.192.0/19,no-resolve
+IP-CIDR,183.3.224.0/19,no-resolve
