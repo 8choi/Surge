@@ -1,0 +1,5 @@
+USER-AGENT,WeChat*
+USER-AGENT,MicroMessenger Client
+
+DOMAIN-SUFFIX,qpic.cn
+DOMAIN-SUFFIX,weixin.qq.com
