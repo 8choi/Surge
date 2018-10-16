@@ -11,6 +11,7 @@ RULE-SET,LAN,DIRECT
 
 URL-REGEX,signed.beta.ipa,PROXY
 URL-REGEX,signed.dpkg.ipa,DIRECT
+URL-REGEX,http.cdn-apple.com,PROXY
 
 RULE-SET,https://github.com/Choler/Surge/raw/master/iCloud.list,PROXY
 
