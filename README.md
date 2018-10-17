@@ -13,8 +13,6 @@ URL-REGEX,signed.beta.ipa,PROXY
 URL-REGEX,signed.dpkg.ipa,DIRECT
 URL-REGEX,http.cdn-apple.com,PROXY
 
-RULE-SET,https://github.com/Choler/Surge/raw/master/iCloud.list,PROXY
-
 RULE-SET,https://github.com/Choler/Surge/raw/master/AppStore.list,DIRECT
 
 RULE-SET,https://github.com/Choler/Surge/raw/master/adblock.list,REJECT
