@@ -130,7 +130,7 @@ DOMAIN,gulfstream.didistatic.com
 # HockeyApp
 DOMAIN,gate.hockeyapp.net
 
-# Netease
+# NetEase
 DOMAIN-SUFFIX,adgeo.163.com
 DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,fa.163.com
@@ -147,6 +147,11 @@ DOMAIN-SUFFIX,prom.gome.com.cn
 DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
+
+URL-REGEX,^http://.+.127.net/ad
+URL-REGEX,^http://.+param=750x332
+URL-REGEX,^http://.+/eapi/(ad|ios|log)/
+URL-REGEX,^http://.+.music.126.net/\w+==/10995\d{13}\.jpg$
 
 # Twitter
 DOMAIN-SUFFIX,syndication.twitter.com
