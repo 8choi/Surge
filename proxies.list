@@ -1,0 +1,3 @@
+台湾神线 = ss, tw.hinet3.ccnet.online, 23555, encrypt-method=chacha20-ietf-poly1305, password=Surge, obfs=http, obfs-host=bing.com, udp-relay=true
+深港专线 = ss, 120.79.114.132, 23555, encrypt-method= chacha20-ietf-poly1305, password=Surge, obfs=http, obfs-host=bing.com, udp-relay=true
+打机神线 = ss, cchkte.ccddns.online, 23555, encrypt-method=chacha20-ietf-poly1305, password=Surge, obfs=http, obfs-host=bing.com, udp-relay=true, tfo=true
