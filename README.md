@@ -9,15 +9,14 @@ RULE-SET,SYSTEM,DIRECT
 
 RULE-SET,LAN,DIRECT
 
-URL-REGEX,signed.beta.ipa,PROXY
-URL-REGEX,signed.dpkg.ipa,DIRECT
-URL-REGEX,http.cdn-apple.com,PROXY
+RULE-SET,https://github.com/Choler/Surge/raw/master/AdBlock.list,REJECT
+
+RULE-SET,https://github.com/Choler/Surge/raw/master/iCloud.list,PROXY
+
+RULE-SET,https://github.com/Choler/Surge/raw/master/Telegram.list,PROXY
 
 RULE-SET,https://github.com/Choler/Surge/raw/master/AppStore.list,DIRECT
 
-RULE-SET,https://github.com/Choler/Surge/raw/master/adblock.list,REJECT
+RULE-SET,https://github.com/Choler/Surge/raw/master/GeoIP-CN.list,DIRECT
 
-RULE-SET,https://github.com/Choler/Surge/raw/master/telegram.list,PROXY
-
-GEOIP,CN,DIRECT,always-real-ip
 FINAL,PROXY,dns-failed
