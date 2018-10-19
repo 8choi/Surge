@@ -22,6 +22,7 @@ DOMAIN-KEYWORD,alipay
 DOMAIN-KEYWORD,baidu
 DOMAIN-KEYWORD,taobao
 DOMAIN-KEYWORD,360buy
+DOMAIN-KEYWORD,officecdn
 
 DOMAIN-SUFFIX,126.com
 DOMAIN-SUFFIX,126.net
@@ -81,7 +82,6 @@ DOMAIN-SUFFIX,miui.com
 DOMAIN-SUFFIX,miwifi.com
 DOMAIN-SUFFIX,mob.com
 DOMAIN-SUFFIX,netease.com
-DOMAIN-KEYWORD,officecdn
 DOMAIN-SUFFIX,oschina.net
 DOMAIN-SUFFIX,ppsimg.com
 DOMAIN-SUFFIX,pstatp.com
@@ -97,7 +97,6 @@ DOMAIN-SUFFIX,qiyipic.com
 DOMAIN-SUFFIX,qq.com
 DOMAIN-SUFFIX,qqurl.com
 DOMAIN-SUFFIX,segmentfault.com
-DOMAIN-SUFFIX,sinaapp.com
 DOMAIN-SUFFIX,sogou.com
 DOMAIN-SUFFIX,sogoucdn.com
 DOMAIN-SUFFIX,sohu.com
@@ -105,7 +104,6 @@ DOMAIN-SUFFIX,soku.com
 DOMAIN-SUFFIX,speedtest.net
 DOMAIN-SUFFIX,sspai.com
 DOMAIN-SUFFIX,suning.com
-DOMAIN-SUFFIX,taobao.com
 DOMAIN-SUFFIX,tenpay.com
 DOMAIN-SUFFIX,tmall.com
 DOMAIN-SUFFIX,tudou.com
