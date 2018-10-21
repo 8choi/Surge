@@ -1,6 +1,8 @@
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger Client
 
+DOMAIN,mmbiz.qpic.cn
+
 IP-CIDR,183.3.224.0/19,no-resolve
 IP-CIDR,14.215.128.0/19,no-resolve
 IP-CIDR,113.96.192.0/19,no-resolve
