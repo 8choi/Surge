@@ -124,6 +124,9 @@ DOMAIN-SUFFIX,zz.bdstatic.com
 # Crashlytics
 DOMAIN,e.crashlytics.com
 
+# HockeyApp
+DOMAIN,gate.hockeyapp.net
+
 # DidiStatic
 DOMAIN,gulfstream.didistatic.com
 
