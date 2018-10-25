@@ -1,6 +1,5 @@
 // Apple
 DOMAIN-SUFFIX,me.com
-IP-CIDR,17.0.0.0/8,no-resolve
 
 // Amazon
 DOMAIN-SUFFIX,amazonaws.com
@@ -21,6 +20,7 @@ DOMAIN-SUFFIX,git.io
 // Google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,youtube.com
 
