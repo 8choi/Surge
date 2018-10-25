@@ -10,6 +10,23 @@ IP-CIDR,113.96.192.0/19,no-resolve
 USER-AGENT,Aweme*
 USER-AGENT,%E6%8A%96%E9%9F%B3*
 
+## App Store
+DOMAIN,apps.mzstatic.com
+DOMAIN,is1-ssl.mzstatic.com
+DOMAIN,is2-ssl.mzstatic.com
+DOMAIN,is3-ssl.mzstatic.com
+DOMAIN,is4-ssl.mzstatic.com
+DOMAIN,is5-ssl.mzstatic.com
+
+DOMAIN,api.apps.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,pd.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,search.itunes.apple.com
+DOMAIN,api-edge.apps.apple.com
+
 ## Misc
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
