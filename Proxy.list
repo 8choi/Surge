@@ -1,3 +1,6 @@
+// Apple
+DOMAIN-SUFFIX,me.com
+
 // Amazon
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-KEYWORD,amazon
@@ -16,6 +19,9 @@ DOMAIN-SUFFIX,git.io
 
 // Google
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,youtu.be
+DOMAIN-SUFFIX,gmail.com
+DOMAIN-SUFFIX,youtube.com
 
 // Instagram
 USER-AGENT,Instagram*
