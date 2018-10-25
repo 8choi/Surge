@@ -25,11 +25,6 @@ DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,youtube.com
 
-// Instagram
-USER-AGENT,Instagram*
-DOMAIN-SUFFIX,cdninstagram.com
-DOMAIN-SUFFIX,instagram.com
-
 // Wikipedia
 DOMAIN-SUFFIX,wikipedia.org
 
