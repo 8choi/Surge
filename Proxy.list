@@ -23,10 +23,7 @@ DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,instagram.com
 
 // Wikipedia
-DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
-DOMAIN-SUFFIX,wikimedia.org
-DOMAIN-SUFFIX,wordpress.com
 
 // Yahoo
 DOMAIN-SUFFIX,yahoo.com
@@ -34,6 +31,10 @@ DOMAIN-SUFFIX,yahoo.com
 // Tumblr
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
+
+// Twitter
+DOMAIN-SUFFIX,twitter.com
+DOMAIN-SUFFIX,twimg.com
 
 // Telegram
 DOMAIN-SUFFIX,t.me
