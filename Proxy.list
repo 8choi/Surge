@@ -40,8 +40,10 @@ DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,turbobit.net
 
 // Twitter
-DOMAIN-SUFFIX,twitter.com
+DOMAIN,t.co
 DOMAIN-SUFFIX,twimg.com
+DOMAIN-SUFFIX,twitter.com
+
 
 // Telegram
 DOMAIN-SUFFIX,t.me
