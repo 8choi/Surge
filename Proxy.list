@@ -9,9 +9,9 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 
 # Dropbox
-DOMAIN-SUFFIX,dropbox.com,PROXY
-DOMAIN-SUFFIX,dropboxstatic.com,PROXY
-DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
+DOMAIN-SUFFIX,dropbox.com
+DOMAIN-SUFFIX,dropboxstatic.com
+DOMAIN-SUFFIX,dropboxusercontent.com
 
 # Facebook
 DOMAIN-KEYWORD,facebook
