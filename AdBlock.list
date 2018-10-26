@@ -148,7 +148,6 @@ DOMAIN-SUFFIX,rlogs.youdao.com
 DOMAIN-SUFFIX,static.flv.uuzuonline.com
 DOMAIN-SUFFIX,wanproxy.127.net
 
-URL-REGEX,^http://.+param=750x332
 URL-REGEX,^http://music.163.com/eapi/(ad|ios|log|event)/
 URL-REGEX,^http://p\d{1}.music.126.net/\w+==/10995\d{13}.jpg$
 
