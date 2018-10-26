@@ -202,6 +202,7 @@ DOMAIN,pagead2.googlesyndication.com
 DOMAIN,log.sina.cn
 DOMAIN,sbeacon.sina.com.cn
 DOMAIN,u1.img.mobile.sina.cn
+DOMAIN,storage.wax.weibo.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
 DOMAIN-SUFFIX,atm.sina.com
@@ -214,5 +215,4 @@ DOMAIN-SUFFIX,miaozhen.com
 DOMAIN-SUFFIX,sax.sina.cn
 DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
-DOMAIN-SUFFIX,wax.weibo.com
 DOMAIN-SUFFIX,sapi.sina.cn
