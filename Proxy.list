@@ -32,4 +32,5 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 
 ## Misc
-
+DOMAIN-KEYWORD,yahoo
+DOMAIN-KEYWORD,amazon
