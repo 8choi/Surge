@@ -62,10 +62,11 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 
 ## Misc
+DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,yahoo
-DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,blogspot
+
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,tumblr.com
@@ -74,3 +75,5 @@ DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,engadget.com
+DOMAIN-SUFFIX,jsboxbbs.com
+DOMAIN-SUFFIX,xteko.com
