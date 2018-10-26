@@ -2,14 +2,6 @@
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,digicert.com
 
-# Amazon
-DOMAIN-SUFFIX,amazonaws.com
-DOMAIN-KEYWORD,amazon
-
-# Box
-DOMAIN-SUFFIX,box.com
-DOMAIN-SUFFIX,box.net
-
 # Dropbox
 DOMAIN-SUFFIX,dribbble.com
 DOMAIN-KEYWORD,dropbox
@@ -28,13 +20,6 @@ DOMAIN-SUFFIX,youtube.com
 # Wikipedia
 DOMAIN-SUFFIX,wikipedia.org
 
-# Yahoo
-DOMAIN-SUFFIX,yahoo.com
-
-// Tumblr
-DOMAIN-SUFFIX,tumblr.com
-DOMAIN-SUFFIX,turbobit.net
-
 # Twitter
 DOMAIN,t.co
 DOMAIN-SUFFIX,twimg.com
@@ -47,3 +32,4 @@ DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
 
 ## Misc
+
