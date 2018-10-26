@@ -41,7 +41,7 @@ DOMAIN-SUFFIX,wikimedia.org
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,outlook.com
-DOMAIN-DUFFIX,office365.com
+DOMAIN-SUFFIX,office365.com
 
 # Twitter
 DOMAIN,t.co
