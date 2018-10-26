@@ -2,6 +2,12 @@
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,digicert.com
 
+# iCloud
+USER-AGENT,cloudd*
+USER-AGENT,CloudKit*
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+
 # Dropbox
 DOMAIN-KEYWORD,dropbox
 
