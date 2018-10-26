@@ -8,6 +8,9 @@ IP-CIDR,113.96.192.0/19,no-resolve
 
 # 微博
 USER-AGENT,Weibo*
+DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,weibo.com
+DOMAIN-SUFFIX,weibo.com
 
 # 抖音
 USER-AGENT,Aweme*
@@ -16,6 +19,7 @@ USER-AGENT,%E6%8A%96%E9%9F%B3*
 ## Apple
 DOMAIN-SUFFIX,cdn-apple.com
 
+# Appstore
 DOMAIN,apps.mzstatic.com
 DOMAIN,is1-ssl.mzstatic.com
 DOMAIN,is2-ssl.mzstatic.com
@@ -135,7 +139,6 @@ DOMAIN-SUFFIX,upyun.com
 DOMAIN-SUFFIX,v2ex.com
 DOMAIN-SUFFIX,veryzhun.com
 DOMAIN-SUFFIX,weather.com
-DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,xiami.com
 DOMAIN-SUFFIX,xiami.net
 DOMAIN-SUFFIX,xiaomicp.com
