@@ -3,15 +3,21 @@ DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,digicert.com
 
 # Dropbox
-DOMAIN-SUFFIX,dribbble.com
 DOMAIN-KEYWORD,dropbox
 
+# Facebook
+DOMAIN-KEYWORD,facebook
+DOMAIN-SUFFIX,fb.me
+DOMAIN-SUFFIX,fbcdn.net
+
 # Github
-DOMAIN-KEYWORD,github
-DOMAIN-SUFFIX,git.io
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,githu.com
+DOMAIN-SUFFIX,githubusercontent.com
 
 # Google
 DOMAIN-KEYWORD,google
+DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
 DOMAIN-SUFFIX,gmail.com
@@ -30,6 +36,13 @@ DOMAIN-SUFFIX,t.me
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
+
+IP-CIDR,91.108.56.0/22,no-resolve
+IP-CIDR,91.108.4.0/22,no-resolve
+IP-CIDR,91.108.8.0/22,no-resolve
+IP-CIDR,109.239.140.0/24,no-resolve
+IP-CIDR,149.154.160.0/20,no-resolve
+IP-CIDR,149.154.164.0/22,no-resolve
 
 ## Misc
 DOMAIN-KEYWORD,yahoo
