@@ -1,6 +1,7 @@
 # 微信
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger Client
+
 IP-CIDR,183.3.224.0/19,no-resolve
 IP-CIDR,14.215.128.0/19,no-resolve
 IP-CIDR,113.96.192.0/19,no-resolve
@@ -14,6 +15,22 @@ USER-AGENT,%E6%8A%96%E9%9F%B3*
 
 ## Apple
 DOMAIN-SUFFIX,cdn-apple.com
+
+DOMAIN,apps.mzstatic.com
+DOMAIN,is1-ssl.mzstatic.com
+DOMAIN,is2-ssl.mzstatic.com
+DOMAIN,is3-ssl.mzstatic.com
+DOMAIN,is4-ssl.mzstatic.com
+DOMAIN,is5-ssl.mzstatic.com
+
+DOMAIN,api.apps.apple.com
+DOMAIN,su.itunes.apple.com
+DOMAIN,pd.itunes.apple.com
+DOMAIN,bag.itunes.apple.com
+DOMAIN,play.itunes.apple.com
+DOMAIN,beta.itunes.apple.com
+DOMAIN,search.itunes.apple.com
+DOMAIN,api-edge.apps.apple.com
 
 ## Misc
 DOMAIN-SUFFIX,cn
