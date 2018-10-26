@@ -9,7 +9,9 @@ DOMAIN-SUFFIX,icloud.com
 DOMAIN-SUFFIX,icloud-content.com
 
 # Dropbox
-DOMAIN-KEYWORD,dropbox
+DOMAIN-SUFFIX,dropbox.com,PROXY
+DOMAIN-SUFFIX,dropboxstatic.com,PROXY
+DOMAIN-SUFFIX,dropboxusercontent.com,PROXY
 
 # Facebook
 DOMAIN-KEYWORD,facebook
@@ -26,6 +28,7 @@ DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,goo.gl
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,ytimg.com
+DOMAIN-SUFFIX,ggpht.com
 DOMAIN-SUFFIX,gmail.com
 DOMAIN-SUFFIX,youtube.com
 
@@ -51,5 +54,8 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 
 ## Misc
+DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,amazon
+DOMAIN-SUFFIX,cloudfront.net
+DOMAIN-SUFFIX,cloudflare.com
