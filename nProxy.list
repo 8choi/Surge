@@ -12,6 +12,9 @@ USER-AGENT,Weibo*
 USER-AGENT,Aweme*
 USER-AGENT,%E6%8A%96%E9%9F%B3*
 
+## Apple
+DOMAIN-SUFFIX,cdn-apple.com
+
 ## Misc
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
