@@ -1,4 +1,5 @@
 # Apple
+DOMAIN,ocsp.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,digicert.com
 
