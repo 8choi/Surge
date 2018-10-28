@@ -65,10 +65,11 @@ IP-CIDR,149.154.164.0/22,no-resolve
 
 ## Misc
 DOMAIN-KEYWORD,amazon
+DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,pixiv
 DOMAIN-KEYWORD,yahoo
-DOMAIN-KEYWORD,blogspot
 
+DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,fast.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,tumblr.com
