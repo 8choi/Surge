@@ -1,4 +1,5 @@
 # Apple
+DOMAIN,gdmf.apple.com
 DOMAIN,ocsp.apple.com
 DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,mail.me.com
