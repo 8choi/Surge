@@ -1,5 +1,6 @@
 # Apple
 DOMAIN,ocsp.apple.com
+DOMAIN,itunes.apple.com
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,digicert.com
 
