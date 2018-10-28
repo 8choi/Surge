@@ -200,6 +200,7 @@ DOMAIN,pagead2.googlesyndication.com
 # sina
 DOMAIN,log.sina.cn
 DOMAIN,sbeacon.sina.com.cn
+DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,storage.wax.weibo.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
