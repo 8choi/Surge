@@ -8,7 +8,6 @@ IP-CIDR,113.96.192.0/19,no-resolve
 
 # 微博
 USER-AGENT,Weibo*
-
 DOMAIN-SUFFIX,sina.cn
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
@@ -17,7 +16,6 @@ DOMAIN-SUFFIX,mmstat.com
 
 # 抖音
 USER-AGENT,Aweme*
-
 DOMAIN,api.amemv.com
 DOMAIN-SUFFIX,pstatp.com
 DOMAIN-SUFFIX,snssdk.com
