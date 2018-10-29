@@ -200,7 +200,6 @@ DOMAIN,pagead2.googlesyndication.com
 # sina
 DOMAIN,log.sina.cn
 DOMAIN,sbeacon.sina.com.cn
-DOMAIN,u1.img.mobile.sina.cn
 DOMAIN,storage.wax.weibo.com
 DOMAIN-SUFFIX,ad.sina.com.cn
 DOMAIN-SUFFIX,adm.leju.sina.com.cn
@@ -215,3 +214,6 @@ DOMAIN-SUFFIX,sax.sina.cn
 DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,sapi.sina.cn
+
+URL-REGEX,^http://u1.img.mobile.sina.cn/public/files/image/750x1334.+(png|jpg|gif|mp4)$
+
