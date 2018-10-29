@@ -1,16 +1,3 @@
-# Apple
-DOMAIN,gdmf.apple.com
-DOMAIN,ocsp.apple.com
-DOMAIN,itunes.apple.com
-DOMAIN-SUFFIX,mail.me.com
-DOMAIN-SUFFIX,digicert.com
-
-# iCloud
-USER-AGENT,cloudd*
-USER-AGENT,CloudKit*
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-
 # Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
