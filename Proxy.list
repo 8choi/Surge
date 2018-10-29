@@ -1,3 +1,11 @@
+# Apple
+USER-AGENT,cloudd*
+USER-AGENT,CloudKit*
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+
+DOMAIN-SUFFIX,me.com
+
 # Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
@@ -52,6 +60,8 @@ IP-CIDR,149.154.160.0/20,no-resolve
 IP-CIDR,149.154.164.0/22,no-resolve
 
 ## Misc
+DOMAIN-SUFFIX,tw
+
 DOMAIN-KEYWORD,amazon
 DOMAIN-KEYWORD,blogspot
 DOMAIN-KEYWORD,pixiv
