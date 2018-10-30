@@ -215,4 +215,4 @@ DOMAIN-SUFFIX,sax.sina.com.cn
 DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,sapi.sina.cn
 
-URL-REGEX,^http://u1.img.mobile.sina.cn/public/files/image/750x\w{4}.+(png|jpg|gif|mp4)$
+URL-REGEX,^http://u1.img.mobile.sina.cn/public/files/image/750x\d{4}.+(png|jpg|gif|mp4)$
