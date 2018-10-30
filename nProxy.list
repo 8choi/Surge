@@ -9,6 +9,7 @@ IP-CIDR,113.96.192.0/19,no-resolve
 # 微博
 USER-AGENT,Weibo*
 DOMAIN-SUFFIX,sina.cn
+DOMAIN-SUFFIX,sinajs.cn
 DOMAIN-SUFFIX,sinaimg.cn
 DOMAIN-SUFFIX,weibo.com
 DOMAIN-SUFFIX,weibo.com
