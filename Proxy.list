@@ -41,6 +41,7 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,msecnd.net
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,office365.com
+DOMAIN-SUFFIX,microsoft.com
 
 # Twitter
 DOMAIN,t.co
@@ -70,6 +71,7 @@ DOMAIN-KEYWORD,yahoo
 
 DOMAIN-SUFFIX,wikiwand.com
 DOMAIN-SUFFIX,fast.com
+DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,medium.com
