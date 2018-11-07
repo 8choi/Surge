@@ -60,6 +60,7 @@ DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
 
 # Baidu
 DOMAIN,em.baidu.com
+DOMAIN,eclick.baidu.com
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,adm.baidu.com
 DOMAIN-SUFFIX,als.baidu.com
