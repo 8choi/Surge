@@ -61,6 +61,7 @@ DOMAIN-SUFFIX,nbsdk-baichuan.taobao.com
 # Baidu
 DOMAIN,em.baidu.com
 DOMAIN,eclick.baidu.com
+DOMAIN,mtj.baidu.com
 DOMAIN-SUFFIX,a.baidu.com
 DOMAIN-SUFFIX,adm.baidu.com
 DOMAIN-SUFFIX,als.baidu.com
@@ -132,11 +133,13 @@ DOMAIN,gate.hockeyapp.net
 DOMAIN,gulfstream.didistatic.com
 
 # NetEase
+DOMAIN,g.163.com
+DOMAIN,g1.163.com
+DOMAIN,temp.163.com
 DOMAIN-SUFFIX,adgeo.163.com
+DOMAIN-SUFFIX,analytics.126.net
 DOMAIN-SUFFIX,bobo.163.com
 DOMAIN-SUFFIX,fa.163.com
-DOMAIN-SUFFIX,g.163.com
-DOMAIN-SUFFIX,g1.163.com
 DOMAIN-SUFFIX,gb.corp.163.com
 DOMAIN-SUFFIX,haitaoad.nosdn.127.net
 DOMAIN-SUFFIX,img1.126.net
