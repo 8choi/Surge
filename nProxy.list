@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,ixigua.com
 
 ## Apple
 DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,workflow.is
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,digicert.com
