@@ -32,6 +32,14 @@ DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,cdn-apple.com
 
+## iCloud
+USER-AGENT,cloudd*
+USER-AGENT,CloudKit*
+
+DOMAIN-SUFFIX,icloud.com
+DOMAIN-SUFFIX,icloud-content.com
+DOMAIN-SUFFIX,apple-cloudkit.com
+
 ## Misc
 DOMAIN-SUFFIX,cn
 DOMAIN-KEYWORD,-cn
