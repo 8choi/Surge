@@ -22,13 +22,15 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ixigua.com
 
 ## Apple
-DOMAIN,seed.siri.apple.com
+DOMAIN-SUFFIX,me.com
+DOMAIN-SUFFIX,apple.com
+DOMAIN-SUFFIX,itunes.com
 DOMAIN-SUFFIX,workflow.is
+DOMAIN-SUFFIX,mzstatic.com
 DOMAIN-SUFFIX,akadns.net
 DOMAIN-SUFFIX,aaplimg.com
 DOMAIN-SUFFIX,digicert.com
 DOMAIN-SUFFIX,cdn-apple.com
-DOMAIN-SUFFIX,ocsp.apple.com
 
 ## Misc
 DOMAIN-SUFFIX,cn
