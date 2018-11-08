@@ -1,12 +1,3 @@
-# Apple
-USER-AGENT,cloudd*
-USER-AGENT,CloudKit*
-DOMAIN-SUFFIX,icloud.com
-DOMAIN-SUFFIX,icloud-content.com
-DOMAIN-SUFFIX,apple-cloudkit.com
-
-DOMAIN-SUFFIX,me.com
-
 # Dropbox
 DOMAIN-SUFFIX,dropbox.com
 DOMAIN-SUFFIX,dropboxstatic.com
