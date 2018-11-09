@@ -9,6 +9,7 @@ DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 
 # Github
+DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
