@@ -22,6 +22,9 @@ DOMAIN-SUFFIX,snssdk.com
 DOMAIN-SUFFIX,ixigua.com
 
 ## Apple
+PROCESS-NAME,storedownloadd
+USER-AGENT,com.apple.appstored*
+
 DOMAIN-SUFFIX,me.com
 DOMAIN-SUFFIX,apple.com
 DOMAIN-SUFFIX,itunes.com
