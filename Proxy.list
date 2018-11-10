@@ -69,7 +69,6 @@ DOMAIN-KEYWORD,yahoo
 DOMAIN-KEYWORD,appledaily
 DOMAIN-KEYWORD,beetalk
 DOMAIN-KEYWORD,blogspot
-DOMAIN-KEYWORD,dropbox
 DOMAIN-KEYWORD,porn
 DOMAIN-KEYWORD,whatsapp
 
@@ -79,11 +78,8 @@ DOMAIN-SUFFIX,ifttt.com
 DOMAIN-SUFFIX,twitch.tv
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,medium.com
-DOMAIN-SUFFIX,nssurge.com
 DOMAIN-SUFFIX,zendesk.com
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,edgecastcdn.net
 DOMAIN-SUFFIX,engadget.com
-DOMAIN-SUFFIX,jsboxbbs.com
-DOMAIN-SUFFIX,xteko.com
