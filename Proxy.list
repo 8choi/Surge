@@ -29,16 +29,6 @@ DOMAIN-SUFFIX,wikipedia.com
 DOMAIN-SUFFIX,wikipedia.org
 DOMAIN-SUFFIX,wikimedia.org
 
-# Microsoft
-DOMAIN-SUFFIX,live.com
-DOMAIN-SUFFIX,live.net
-DOMAIN-SUFFIX,msecnd.net
-DOMAIN-SUFFIX,outlook.com
-DOMAIN-SUFFIX,office.com
-DOMAIN-SUFFIX,office.net
-DOMAIN-SUFFIX,hotmail.com
-DOMAIN-SUFFIX,microsoft.com
-
 # Twitter
 DOMAIN,t.co
 DOMAIN-SUFFIX,twimg.com
