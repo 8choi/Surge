@@ -12,12 +12,6 @@ DOMAIN-SUFFIX,fbcdn.net
 USER-AGENT,Instagram*
 DOMAIN-KEYWORD,instagram
 
-# Github
-DOMAIN-SUFFIX,git.io
-DOMAIN-SUFFIX,github.io
-DOMAIN-SUFFIX,github.com
-DOMAIN-SUFFIX,githubusercontent.com
-
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-SUFFIX,goo.gl
@@ -39,7 +33,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twitter.com
 
 # Telegram
-DOMAIN-SUFFIX,t.me
+DOMAIN,t.me
 DOMAIN-SUFFIX,telegra.ph
 DOMAIN-SUFFIX,telegram.me
 DOMAIN-SUFFIX,telegram.org
