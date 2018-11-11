@@ -8,6 +8,10 @@ DOMAIN-KEYWORD,facebook
 DOMAIN-SUFFIX,fb.me
 DOMAIN-SUFFIX,fbcdn.net
 
+# Instagram
+USER-AGENT,Instagram*
+DOMAIN-KEYWORD,instagram
+
 # Github
 DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.io
