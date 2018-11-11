@@ -62,8 +62,9 @@ IP-CIDR,203.104.128.0/20,no-resolve
 IP-CIDR,203.174.66.64/26,no-resolve
 IP-CIDR,203.174.77.0/24,no-resolve
 
-#
+# WahtsApp
 USER-AGENT,WhatsApp*
+DOMAIN-SUFFIX,whatsapp.com
 
 # Telegram
 DOMAIN-SUFFIX,t.me
