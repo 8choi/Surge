@@ -221,3 +221,8 @@ DOMAIN-SUFFIX,tjs.sjs.sinajs.cn
 DOMAIN-SUFFIX,sapi.sina.cn
 
 URL-REGEX,^http://u1.img.mobile.sina.cn/public/files/image/750x\d{4}.+(png|jpg|gif|mp4)$
+
+URL-REGEX,^http:\/\/img\.piaosugo\.com\/99\/82bc7fe92d9b341992d9ac5b94e8a186\.png$,REJECT
+URL-REGEX,^http:\/\/img\.piaosugo\.com\/76\/f92050d03521654c1f6a1525a34d4def\.jpg$,REJECT
+URL-REGEX,^http:\/\/img\.piaosugo\.com\/1\/d7941142f0d8539807deddf9392ac84e\.jpg$,REJECT
+URL-REGEX,^http:\/\/img\.piaosugo\.com\/81\/dd91cd1876a17ff4888dacb72d875dbd\.jpg$,REJECT
