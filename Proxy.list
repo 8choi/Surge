@@ -8,6 +8,11 @@ DOMAIN-SUFFIX,fbcdn.net
 USER-AGENT,Instagram*
 DOMAIN-KEYWORD,instagram
 
+# GitHub
+DOMAIN-SUFFIX,github.io
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,githubusercontent.com
+
 # Google
 DOMAIN-KEYWORD,google
 DOMAIN-KEYWORD,blogspot
