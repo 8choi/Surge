@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,wikimedia.org
 # Twitter
 DOMAIN,t.co
 DOMAIN-SUFFIX,twimg.com
+DOAMIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.com
 
 # Telegram
