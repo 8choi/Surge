@@ -52,6 +52,7 @@ IP-CIDR6,2001:b28:f23f::/48,no-resolve
 # Misc
 DOMAIN,cdn.ccilink.com
 DOMAIN-KEYWORD,dropbox
+DOMAIN-SIFFIX,diveng.io
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,cdn,oculus.com
