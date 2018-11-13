@@ -9,6 +9,7 @@ USER-AGENT,Instagram*
 DOMAIN-KEYWORD,instagram
 
 # GitHub
+DOMAIN-SUFFIX,git.io
 DOMAIN-SUFFIX,github.io
 DOMAIN-SUFFIX,github.com
 DOMAIN-SUFFIX,githubusercontent.com
@@ -62,3 +63,4 @@ DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,cdn,oculus.com
 DOMAIN-SUFFIX,box.com
 DOMAIN-SUFFIX,box.net
+DOMAIN-SUFFIX,twitch.tv
