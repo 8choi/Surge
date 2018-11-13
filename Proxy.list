@@ -60,3 +60,4 @@ DOMAIN-SUFFIX,diveng.io
 DOMAIN-SUFFIX,tumblr.com
 DOMAIN-SUFFIX,oculus.com
 DOMAIN-SUFFIX,cdn,oculus.com
+RULE-SET,https://github.com/lhie1/Rules/raw/master/Surge3/proxy.list
