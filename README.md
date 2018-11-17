@@ -13,4 +13,7 @@
 ^https://api.weibo.cn/2/statuses/extend\?gsid= - reject
 ^https://api.weibo.cn/2/statuses/longtext_show_batch - reject
 ```
-
+* 屏蔽YouTube插播视频广告 `youtubei.googleapis.com`
+```
+^https://youtubei.googleapis.com/.+ad_break - reject
+```
