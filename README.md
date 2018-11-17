@@ -7,3 +7,10 @@
 ```
 (?<=&watermark=)1(?=.*) 0 302
 ```
+* 屏蔽微博启动广告和正文推广 `api.weibo.cn` 
+```
+^http://u1.img.mobile.sina.cn/public/files/image/750x\d{4}.+(png|jpg|gif|mp4)$ - reject
+^https://api.weibo.cn/2/statuses/extend\?gsid= - reject
+^https://api.weibo.cn/2/statuses/longtext_show_batch - reject
+```
+
