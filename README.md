@@ -26,3 +26,7 @@
 ```
 ^https?://p\d{1}.meituan.net/(mmc|wmbanner)/ - reject
 ```
+* 拦截携程启动广告 `dimg*.c-ctrip.com` 
+```
+^https://dimg\d{2}.c-ctrip.com/images/.+_750_1334
+```
