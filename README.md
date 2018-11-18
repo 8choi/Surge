@@ -28,5 +28,5 @@
 ```
 * 拦截携程启动广告 `dimg*.c-ctrip.com` 
 ```
-^https://dimg\d{2}.c-ctrip.com/images/.+_750_1334
+^https://dimg\d{2}.c-ctrip.com/images/.+_750_1334 - reject
 ```
