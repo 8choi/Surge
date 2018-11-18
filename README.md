@@ -32,5 +32,5 @@
 ```
 * 拦截企鹅电竞启动广告
 ```
-^http://shp.qpic.cn/pggamehead/.+new=1.0&w=1242&h=2208$
+^http://shp.qpic.cn/pggamehead/.+new=1.0&w=1242&h=2208$ - reject
 ```
