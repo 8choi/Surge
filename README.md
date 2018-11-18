@@ -10,8 +10,7 @@
 * 拦截微博启动广告和正文推广 `api.weibo.cn` 
 ```
 ^http://u1.img.mobile.sina.cn/public/files/image/750x\d{4}.+(png|jpg|gif|mp4)$ - reject
-^https://api.weibo.cn/2/statuses/extend\?gsid= - reject
-^https://api.weibo.cn/2/statuses/longtext_show_batch - reject
+^https://api.weibo.cn/2/statuses/(extend\?gsid=|longtext_show_batch) - reject
 ```
 * 拦截YouTube插播视频广告 `youtubei.googleapis.com`
 ```
@@ -34,7 +33,7 @@
 ```
 ^http://shp.qpic.cn/pggamehead/.+new=1.0&w=1242&h=2208$ - reject
 ```
-* 拦截腾讯视频启动广告和视频开头广告 `lives.l.qq.com`
+* 拦截腾讯视频启动广告和开头视频广告 `lives.l.qq.com`
 ```
 ^http://splashqqlive.gtimg.com/website/\d{6}/ - reject
 ^https://lives.l.qq.com/livemsg\?sdtfrom= - reject
