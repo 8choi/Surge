@@ -22,7 +22,7 @@
 ^https://ms.jr.jd.com/gw/generic/base/na/m/ad - reject
 ^https://img\d{1,}.360buyimg.com/jrpmobile/jfs/.+width=225&height=225$ - reject
 ```
-* 拦截美团启动广告 `p?.meituan.net`
+* 拦截美团启动广告和美团外卖启动广告 `p?.meituan.net`
 ```
-^https://p\d{1}.meituan.net/mmc/ - reject
+^https?://p\d{1}.meituan.net/(mmc|wmbanner)/ - reject
 ```
