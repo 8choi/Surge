@@ -24,5 +24,5 @@
 ```
 * 拦截美团启动广告 `p?.meituan.net`
 ```
-^https://p\d{1}.meituan.net/mmc/
+^https://p\d{1}.meituan.net/mmc/ - reject
 ```
