@@ -17,8 +17,8 @@
 ```
 ^https://youtubei.googleapis.com/.+ad_break - reject
 ```
-* 拦截京东金融启动广告和悬浮广告 `img12.360buyimg.com`
+* 拦截京东金融启动广告和悬浮广告 `ms.jr.jd.com` `img12.360buyimg.com`
 ```
-^https://img\d{1,}.360buyimg.com/(pop|jrpmobile)/jfs/.+.jpg - reject
+^https://ms.jr.jd.com/gw/generic/base/na/m/ad - reject
 ^https://img\d{1,}.360buyimg.com/jrpmobile/jfs/.+width=225&height=225$ - reject
 ```
