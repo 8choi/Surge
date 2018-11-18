@@ -1,3 +1,6 @@
+RULE-SET,SYSTEM
+RULE-SET,LAN
+
 # 微信
 USER-AGENT,WeChat*
 USER-AGENT,MicroMessenger Client
