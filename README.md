@@ -34,3 +34,8 @@
 ```
 ^http://shp.qpic.cn/pggamehead/.+new=1.0&w=1242&h=2208$ - reject
 ```
+* 拦截腾讯视频启动广告和视频开头广告 `lives.l.qq.com`
+```
+^http://splashqqlive.gtimg.com/website/\d{6}/ - reject
+^https://lives.l.qq.com/livemsg\?sdtfrom= - reject
+```
