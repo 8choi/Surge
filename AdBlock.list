@@ -159,6 +159,7 @@ URL-REGEX,^http://p[^4](c)?.music.126.net/\w+==/10995\d{13}.jpg$
 DOMAIN-SUFFIX,syndication.twitter.com
 
 # Tencent
+DOMAIN,shp.qpic.cn
 DOMAIN-SUFFIX,act.qq.com
 DOMAIN-SUFFIX,adsfile.qq.com
 DOMAIN-SUFFIX,beacon.qq.com
