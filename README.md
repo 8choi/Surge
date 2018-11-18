@@ -30,3 +30,7 @@
 ```
 ^https://dimg\d{2}.c-ctrip.com/images/.+_750_1334 - reject
 ```
+* 拦截企鹅电竞启动广告
+```
+^http://shp.qpic.cn/pggamehead/.+new=1.0&w=1242&h=2208$
+```
