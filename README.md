@@ -54,3 +54,12 @@
 ```
 ^https://m.360buyimg.com/mobilecms/s(640x1136|750x1624|862x90)_jfs/ - reject
 ```
+* 拦截抖音短视频启动广告 `*ttcdn-tos.pstatp.com`
+```
+^https://sf\d{1}-ttcdn-tos.pstatp.com/obj/web.business.image/ - reject
+```
+* 拦截网易云音乐启动广告 `p*.music.126.net`
+```
+^http://iadmusicmat.music.126.net/\w+.jpg$ - reject
+^https?://p\d{1}.music.126.net/\w+==/10995\d{13}.jpg$ - reject
+```
