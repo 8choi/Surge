@@ -63,3 +63,7 @@
 ^http://iadmusicmat.music.126.net/\w+.jpg$ - reject
 ^https?://p\d{1}.music.126.net/\w+==/10995\d{13}.jpg$ - reject
 ```
+* 拦截知乎启动广告和宣传广告 `api.zhihu.com`
+```
+^https://api.zhihu.com/(real_time_)?launch\?app= - reject
+```
