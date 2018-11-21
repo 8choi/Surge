@@ -21,7 +21,7 @@
 * 打赏 [支付宝公益](https://love.alipay.com/donate/index.htm)
 
 ## 作者语
-* 可以拷贝、转发，但是不得用于商业用途。
+* 可以拷贝、转发，但不得用于商业用途。
 
 ## [URL Rewrite]
 * Google复写
