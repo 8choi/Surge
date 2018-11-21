@@ -1,4 +1,33 @@
-# [URL Rewrite]
+# 使用手册
+* 安装并信任证书，确保MitM和Rewrite同时开启
+* 复制需要的规则到 [URL Rewrite] ，如标题后面带有域名复制到 hostname=
+
+## 常见问题
+如何安装并信任证书?
+```
+安装：首页 - 配置根证书 - 安装证书
+信任：设置 - 关于本机 - 证书信任设置 - 信任
+```
+主机名可以使用*通配符吗?
+```
+可以，但是由于进行 MitM 开销很大，请仅向需要的主机名启动。
+```
+为什么我用了你的规则之后还有启动广告?
+```
+由于先前广告已缓存到本地，一般清理缓存就可以，但部分应用需要卸载重装。
+```
+怎么反馈问题或打赏?
+```
+反馈 [Telegram](https://t.me/Bigbig_Choler)
+打赏 [支付宝公益](https://love.alipay.com/donate/index.htm)
+```
+
+作者语
+```
+* 可以拷贝、转发，但是不得用于商业用途。
+```
+
+## [URL Rewrite]
 * Google复写
 ```
 ^http://www.google.cn http://www.google.com header
