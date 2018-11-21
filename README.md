@@ -94,5 +94,6 @@
 * 拦截腾讯视频和腾讯新闻以及QQ音乐启动广告 `wa.gtimg.com`
 ```
 ^http://splashqqlive.gtimg.com/website/\d{6}/ - reject
+^http://.*/vlive.qqvideo.tc.qq.com/.+.mp4 - reject
 ^https?://wa.gtimg.com/website/\d{6}/\w+_.{3} - reject
 ```
