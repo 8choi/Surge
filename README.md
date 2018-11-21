@@ -16,11 +16,11 @@
 ```
 由于先前广告已缓存到本地，一般清理缓存就可以，但部分应用需要卸载重装。
 ```
-## 关于
+### 关于
 * 反馈 [Telegram](https://t.me/Bigbig_Choler)
 * 打赏 [支付宝公益](https://love.alipay.com/donate/index.htm)
 
-## 作者语
+### 作者语
 * 可以拷贝、转发，但不得用于商业用途。
 
 ## [URL Rewrite]
