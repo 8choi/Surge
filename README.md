@@ -1,5 +1,5 @@
 # 使用手册
-* 安装并信任证书，确保MitM和Rewrite同时开启
+* 安装并信任证书，确保 MitM 功能和 Rewrite 功能同时启用
 * 复制需要的规则到 [URL Rewrite] ，如标题后面带有域名复制到 hostname=
 
 ## 常见问题
@@ -16,12 +16,6 @@
 ```
 由于先前广告已缓存到本地，一般清理缓存就可以，但部分应用需要卸载重装。
 ```
-### 关于
-* 反馈 [Telegram](https://t.me/Bigbig_Choler)
-* 打赏 [支付宝公益](https://love.alipay.com/donate/index.htm)
-
-### 作者语
-* 可以拷贝、转发，但不得用于商业用途。
 
 ## [URL Rewrite]
 * Google复写
@@ -34,7 +28,7 @@
 ```
 * 拦截抖音短视频启动广告 `*ttcdn-tos.pstatp.com`
 ```
-^https://sf\d{1}-ttcdn-tos.pstatp.com/obj/web.business.image/ - reject
+^https://sf\d-ttcdn-tos.pstatp.com/obj/web.business.image/ - reject
 ```
 * 拦截微博启动广告和正文推广 `api.weibo.cn` 
 ```
@@ -56,7 +50,7 @@
 ```
 * 拦截美团和美团外卖启动广告 `p*.meituan.net`
 ```
-^https?://p\d{1}.meituan.net/(mmc|wmbanner)/ - reject
+^https?://p\d.meituan.net/(mmc|wmbanner)/ - reject
 ```
 * 拦截携程启动广告 `dimg*.c-ctrip.com` 
 ```
@@ -81,7 +75,7 @@
 * 拦截网易云音乐启动广告 `p*.music.126.net`
 ```
 ^http://iadmusicmat.music.126.net/\w+.jpg$ - reject
-^https?://p\d{1}.music.126.net/\w+==/10995\d{13}.jpg$ - reject
+^https?://p\d.music.126.net/\w+==/10995\d{13}.jpg$ - reject
 ```
 * 拦截知乎启动广告和宣传广告 `api.zhihu.com`
 ```
@@ -97,3 +91,14 @@
 ^http://.*/vlive.qqvideo.tc.qq.com/.+.mp4 - reject
 ^https?://wa.gtimg.com/website/\d{6}/\w+_.{3} - reject
 ```
+* 拦截掌上生活启动广告 `mlife.cmbchina.com`
+```
+^https://mlife.cmbchina.com/ClientFace(Service)?/\w+Advertise(.*)?.json$ - reject
+```
+
+### 关于
+* 反馈 [Telegram](https://t.me/Bigbig_Choler)
+* 打赏 [支付宝公益](https://love.alipay.com/donate/index.htm)
+
+### 作者语
+* 可以拷贝、转发，但不得用于商业用途。
