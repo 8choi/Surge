@@ -1,7 +1,7 @@
 # 使用手册
 * 安装并信任证书，确保 MitM 功能和 Rewrite 功能同时启用
 * Surge：复制需要的规则到 [URL Rewrite] ，如标题后面带有域名复制到 hostname=
-* Quantumult：
+* Quantumult：订阅 https://github.com/Choler/Surge/raw/master/Rejection.conf
 
 ## 常见问题
 如何安装并信任证书?
