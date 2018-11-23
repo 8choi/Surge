@@ -21,7 +21,7 @@
 ## [URL Rewrite]
 * 复写 Google CN
 ```
-^http://www.google.cn http://www.google.com header
+^http://www.google.cn http://www.google.com.hk 302
 ```
 * 抖音视频下载去水印 `aweme.snssdk.com` 
 ```
