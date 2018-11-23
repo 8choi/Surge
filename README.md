@@ -91,9 +91,13 @@
 ^http://.*/vlive.qqvideo.tc.qq.com/.+.mp4 - reject
 ^https?://wa.gtimg.com/website/\d{6}/\w+_.{3} - reject
 ```
-* 拦截掌上生活启动广告 `mlife.cmbchina.com`
+* 拦截掌上生活启动广告和悬浮广告 `mlife.cmbchina.com`
 ```
-^https://mlife.cmbchina.com/ClientFace(Service)?/\w+Advertise(.*)?.json$ - reject
+^https://mlife.cmbchina.com/ClientFace(Service)?/\w+Advertise(.+)?.json$ - reject
+```
+* 拦截饿了么启动广告(beta) `fuss10.elemecdn.com`
+```
+^https://fuss10.elemecdn.com/.+/\d{3}/h/\d{4}/ - reject
 ```
 
 ### 关于
