@@ -19,7 +19,7 @@
 ```
 
 ## [URL Rewrite]
-* 
+* 复写 Google CN
 ```
 ^http://www.google.cn http://www.google.com header
 ```
