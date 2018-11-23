@@ -1,6 +1,6 @@
 # 使用手册
 * 安装并信任证书，确保 MitM 功能和 Rewrite 功能同时启用
-* Surge：复制需要的规则到 [URL Rewrite] ，如标题后面带有域名复制到 hostname=
+* Surge：捷径 https://www.icloud.com/shortcuts/6da9a6c09618464d85c11580d81b1e51
 * Quantumult：订阅 https://github.com/Choler/Surge/raw/master/Rejection.conf
 
 ## 常见问题
@@ -19,7 +19,7 @@
 ```
 
 ## [URL Rewrite]
-* Google复写
+* 
 ```
 ^http://www.google.cn http://www.google.com header
 ```
@@ -96,7 +96,7 @@
 ```
 ^https://mlife.cmbchina.com/ClientFace(Service)?/\w+Advertise(.+)?.json$ - reject
 ```
-* 拦截饿了么启动广告(beta) `fuss10.elemecdn.com`
+* 拦截饿了么启动广告 `fuss10.elemecdn.com`
 ```
 ^https://fuss10.elemecdn.com/.+/\d{3}/h/\d{4}/ - reject
 ```
