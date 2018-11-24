@@ -1,6 +1,6 @@
 # 使用手册
 * 安装并信任证书，确保 MitM 功能和 Rewrite 功能同时启用
-* Surge：捷径 https://www.icloud.com/shortcuts/6da9a6c09618464d85c11580d81b1e51
+* Surge：捷径 https://www.icloud.com/shortcuts/81ea66ea9f8649d3be6c1a9e3dc1e4eb
 * Quantumult：订阅 https://github.com/Choler/Surge/raw/master/Rejection.conf
 
 ## 常见问题
