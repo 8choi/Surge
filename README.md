@@ -49,8 +49,9 @@
 ^https://ms.jr.jd.com/gw/generic/base/na/m/ad - reject
 ^https://img\d{1,}.360buyimg.com/jrpmobile/jfs/.+width=225&height=225$ - reject
 ```
-* 拦截美团和美团外卖启动广告 `p*.meituan.net`
+* 拦截美团和美团外卖启动广告 `p*.meituan.net` `img.meituan.net`
 ```
+^https://img.meituan.net/midas/ - reject
 ^https?://p\d.meituan.net/(mmc|wmbanner)/ - reject
 ```
 * 拦截携程启动广告 `dimg*.c-ctrip.com` 
@@ -78,8 +79,9 @@
 ^http://iadmusicmat.music.126.net/\w+.jpg$ - reject
 ^https?://p\d.music.126.net/\w+==/10995\d{13}.jpg$ - reject
 ```
-* 拦截知乎启动广告和宣传广告 `api.zhihu.com`
+* 拦截知乎启动广告和宣传广告 `api.zhihu.com` `www.zhihu.com`
 ```
+^https://www.zhihu.com/api/v4/community-ad/ - reject
 ^https://api.zhihu.com/(real_time_)?launch\?app= - reject
 ```
 * 拦截滴滴出行启动广告 `img-*.didistatic.com`
@@ -99,6 +101,14 @@
 * 拦截饿了么启动广告 `fuss10.elemecdn.com`
 ```
 ^https://fuss10.elemecdn.com/.+/\d{3}/h/\d{4}/ - reject
+```
+拦截唱吧启动广告
+```
+^http://aliimg.changba.com/cache/photo/startupimg/ - reject
+```
+拦截发现精彩启动广告
+```
+^http://mps.95508.com/mps/club/cardPortals/adv/\d+.jpg$
 ```
 
 ### 关于
