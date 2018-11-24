@@ -108,7 +108,7 @@
 ```
 拦截发现精彩启动广告
 ```
-^http://mps.95508.com/mps/club/cardPortals/adv/\d+.jpg$
+^http://mps.95508.com/mps/club/cardPortals/adv/\d+.jpg$ - reject
 ```
 
 ### 关于
