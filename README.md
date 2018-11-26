@@ -4,7 +4,7 @@
 * Quantumult：订阅 https://github.com/Choler/Surge/raw/master/Rejection.conf
 
 ## 简介
-* 加入频道(https://t.me/iCholer)第一时间获取更新通知。
+* 加入[Telegram频道](https://t.me/iCholer)第一时间获取更新通知。
 * 此项目现处于beta阶段，有问题反馈。
 
 ## 常见问题
