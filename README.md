@@ -3,7 +3,9 @@
 * Surge：捷径 https://www.icloud.com/shortcuts/3db5f893cbef4caa8847c64f428e191f
 * Quantumult：订阅 https://github.com/Choler/Surge/raw/master/Rejection.conf
 
-*此项目现处于beta阶段，有问题反馈。
+## 简介
+* 加入频道(https://t.me/iCholer)第一时间获取更新通知。
+* 此项目现处于beta阶段，有问题反馈。
 
 ## 常见问题
 如何安装并信任证书？
