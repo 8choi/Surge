@@ -19,7 +19,7 @@
 
 ```
 [URL Rewrite]
-(?<=&carrier_region=)CN(?=&) JP 307
+(?<=&carrier_region=)CN(?=&is_my_cn=1) HK 307
 
 [MITM]
 hostname = *.tiktokv.com, *.byteoversea.com, *.musical.ly, *.snssdk.com, *.akamaized.net
