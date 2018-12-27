@@ -16,3 +16,11 @@
 * 点击请求链接再点响应 可查看视频内容
 * 如需保存点击最下方Export 点击储存视频
 * 此时视频就去水印保存到相册
+
+```
+[URL Rewrite]
+(?<=&carrier_region=)CN(?=&) JP 307
+
+[MITM]
+hostname = *.tiktokv.com, *.byteoversea.com, *.musical.ly, *.snssdk.com, *.akamaized.net
+```
