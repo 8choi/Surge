@@ -1,4 +1,6 @@
 # 简介
+经测试全区可用，能正常登入、点赞、浏览！
+
 ## 证书
 * 安装根证书：[点击安装证书](https://github.com/Choler/Surge/raw/master/Thor%20SSL%20CA.cer)
 * 信任根证书：手机设置-通用-关于本机-证书信任设置 打开按钮
